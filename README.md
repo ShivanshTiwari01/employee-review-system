@@ -1,6 +1,6 @@
 # Amazon Employees Feedback Management System
 
-- Tech Stack Used: Node.js, Express.js, Mongo DB, Bootstrap
+- Tech Stack Used: Node.js, Express.js, Mongo DB and Bootstrap
 
 - An Employee review system for a big corporate such as Amazon
 
